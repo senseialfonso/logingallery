@@ -1,7 +1,7 @@
 # LoginApp – Demo de Login y Galería en Java Swing
 
-> **Propósito:** servir como punto de partida para que los estudiantes practiquen
-> programación con Swing, manejo de colecciones en memoria y mejoras evolutivas.
+> **Propósito:** servir como punto de partida
+> programación con Swing, manejo de colecciones en memoria
 
 ---
 
@@ -19,39 +19,34 @@
 ## 🛠️ Requisitos
 
 - **JDK 17** o superior (probado hasta Java 21).
-- Maven <sup>(recomendado)</sup> o tu IDE favorito (NetBeans, IntelliJ, VS Code).
+- Tu IDE favorito (NetBeans, IntelliJ, VS Code).
 
 ---
 
 ## 🚀 Ejecución rápida (Maven)
 
-```bash
-mvn clean compile exec:java \
-  -Dexec.mainClass="com.mycompany.loginapp.LoginApp"
-```
+
 
 Abre la ventana de inicio de sesión → ingresa `admin` / `admin`.
 
 ---
 
-## 🧑‍🎓 Tareas para los alumnos
+## 🧑‍🎓 Tareas:
 
 1. **Cerrar sesión**  
-   - Añadir un botón visible que permita volver a la pantalla de login sin finalizar la aplicación.  
+   - Añadir un botón visible que permita volver a la pantalla de login sin finalizar la aplicación (cerrar sesión).  
    - Limpiar campos y estados antes de regresar.
 
 2. **Mostrar la descripción de cada imagen en la galería**  
    - Al hacer clic (o con tooltip) mostrar la descripción. O bien colocarla como subtítulo bajo la miniatura.
 
-3. **Video de presentación (máx. 3 minutos)**  
+3. **Video de presentación (al menos. 3 minutos)**  
    - Demostrar el flujo completo (login, cierre de sesión, descripciones).  
    - Explicar brevemente los cambios de código implementados.
 
+## 🧑‍🎓 Entregables
+-Liga de Github terminada 50%
+- Video al menos 3 minutos en youtube o Drive con la explicación (deben verse ustedes también ) 50%
 ---
 
-## 📝 Guía de estilo recomendada
 
-- **Paquetes**: usa tu propio dominio (e.g. `mx.escuela.nombre.loginapp`).
-- **Nombres**: clases en *PascalCase*, variables en *camelCase*.
-- **Swing**: evita código duplicado; encapsula lógica repetida.
-- **Commits**: pequeños y descriptivos.
