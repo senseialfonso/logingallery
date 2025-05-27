@@ -45,7 +45,7 @@ Abre la ventana de inicio de sesión → ingresa `admin` / `admin`.
    - Explicar brevemente los cambios de código implementados.
 
 ## 🧑‍🎓 Entregables
-Liga de Github terminada 50%
-Video al menos 3 minutos en youtube o Drive con la explicación (deben verse ustedes también ) 50%
+   - Liga de Github terminada 50%
+   - Video al menos 3 minutos en youtube o Drive con la explicación (deben verse ustedes también ) 50%
 
 
